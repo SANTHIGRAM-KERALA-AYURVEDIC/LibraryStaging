@@ -1,0 +1,50 @@
+# version: 0.0
+# os: linux
+# files:
+#   - source: /
+#     destination: /var/www/html
+# hooks:
+#   AfterInstall:
+#     - location: afterinstall.sh
+#       timeout: 100
+#   ApplicationStart:
+#     - location: applicationstart.sh
+#       timeout: 100
+
+# version: 0.0
+# os: linux
+# files:
+#     - source: /
+#       destination: /var/www/html/wp_app
+# permissions:
+#     - object: /var/www/html/wp_app
+#       pattern: "**"
+#       owner: www-data
+#       group: www-data
+#       mode: 755
+#       type:
+#         - file
+# hooks:
+#     BeforeInstall:
+#      - location: scripts/installapache.sh
+#        runas: root
+#      - location: scripts/startapache.sh
+#        runas: root
+#     AfterInstall:
+#      - location: scripts/restartapache.sh
+#        runas: root
+
+version: 0.0
+os: linux
+files:
+    - source: /
+      destination: /opt/bitnami/wordpress
+permissions:
+  - object: /
+    pattern: "**"
+    owner: bitnami
+    group: daemon
+    mode: 755
+hooks:
+  ApplicationStart:
+    - location: /deploy/applicationstart.sh

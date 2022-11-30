@@ -1,0 +1,22 @@
+2022-10-20T09:24:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/wplive/web/wp-live/wp-content/themes/academix-child/functions.php:19
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(307): fetchWithZotero(Array, 7, true, Array)
+#1 /home/wplive/web/wp-live/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 7, true, Array)
+#3 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/ajax/class-asp-search.php(69): ASP_Query->__construct(Array, 7, Array)
+#5 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(307): WD_ASP_Search_Handler->handle('')
+#6 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#7 /home/wplive/web/wp-live in /home/wplive/web/wp-live/wp-content/themes/academix-child/functions.php on line 19
+
+2022-10-20T09:24:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/wplive/web/wp-live/wp-content/themes/academix-child/functions.php:19
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(307): fetchWithZotero(Array, 7, true, Array)
+#1 /home/wplive/web/wp-live/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(2187): apply_filters('asp_results', Array, 7, true, Array)
+#3 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/search/class-asp-query.php(871): ASP_Query->get_posts()
+#4 /home/wplive/web/wp-live/wp-content/plugins/ajax-search-pro/includes/classes/ajax/class-asp-search.php(69): ASP_Query->__construct(Array, 7, Array)
+#5 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(307): WD_ASP_Search_Handler->handle('')
+#6 /home/wplive/web/wp-live/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#7 /home/wplive/web/wp-live in /home/wplive/web/wp-live/wp-content/themes/academix-child/functions.php on line 19
+

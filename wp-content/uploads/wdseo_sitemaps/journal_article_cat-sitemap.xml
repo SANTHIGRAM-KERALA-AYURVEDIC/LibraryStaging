@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="https://ayurvedalibrary.org/wp-content/plugins/seo-by-10web/css/xml-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/1985-1989/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/1990-1194/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/1999-1995/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/2000-2005/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/2010-2011/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/2014-2015/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
+<loc>https://ayurvedalibrary.org/journal_article_cat/2016-2017/</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>
+</urlset>

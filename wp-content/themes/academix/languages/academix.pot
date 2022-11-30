@@ -1,0 +1,784 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Academix 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/academix\n"
+"POT-Creation-Date: 2022-03-14 09:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: template-parts/content-single.php:16 template-parts/content.php:26
+msgid "% Comments"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: template-parts/content-single.php:16 template-parts/content.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: inc/global-functions.php:99
+msgid "2017 - "
+msgstr ""
+
+#. Name of the theme
+msgid "Academix"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Academix - Multipurpose Researcher and Professor WordPress Theme by - <a "
+"href=\"https://themeforest.net/user/webtechtoday/\">webtechtoday</a>"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:61
+msgid "Academix Core Elementor"
+msgstr ""
+
+#: inc/widgets/academix-latest-events-widget.php:17
+msgid "Academix Latest Events"
+msgstr ""
+
+#: inc/widgets/academix-recent-post-widget.php:17
+msgid "Academix Recent Posts"
+msgstr ""
+
+#: inc/global-functions.php:99
+msgid "Academix Research Group"
+msgstr ""
+
+#: inc/widgets/academix-social-widget.php:16
+msgid "Academix Social Links"
+msgstr ""
+
+#: inc/academix-metabox.php:119 inc/academix-metabox.php:167
+#: inc/academix-metabox.php:215 inc/academix-metabox.php:259
+msgid "Add Another Row"
+msgstr ""
+
+#: functions.php:158
+msgid "Add footer widgets here."
+msgstr ""
+
+#: functions.php:146
+msgid "Add page widgets here."
+msgstr ""
+
+#: inc/academix-metabox.php:486
+msgid "Add PDF"
+msgstr ""
+
+#: inc/academix-metabox.php:118 inc/academix-metabox.php:166
+#: inc/academix-metabox.php:214 inc/academix-metabox.php:258
+msgid "Add Row{#}"
+msgstr ""
+
+#: functions.php:136
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/academix-metabox.php:52 inc/academix-metabox.php:62
+#: inc/academix-metabox.php:66
+msgid "Address"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:178
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/global-functions.php:218
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:99
+msgid "Articles by"
+msgstr ""
+
+#: inc/academix-metabox.php:408
+msgid "Author Name"
+msgstr ""
+
+#: inc/academix-metabox.php:434
+msgid "Authors Name"
+msgstr ""
+
+#: inc/academix-metabox.php:230
+msgid "Award Title"
+msgstr ""
+
+#: inc/academix-metabox.php:198
+msgid "Awards Prizes"
+msgstr ""
+
+#: inc/academix-metabox.php:308
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/academix-metabox.php:30
+msgid "Basic Info"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:168
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:158
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:163
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/global-functions.php:204 inc/global-functions.php:223
+#: inc/breadcrumbs.php:13
+msgid "Blog"
+msgstr ""
+
+#: inc/academix-metabox.php:402
+msgid "Book Description"
+msgstr ""
+
+#: inc/academix-metabox.php:386
+msgid "Book Link"
+msgstr ""
+
+#: inc/academix-metabox.php:392
+msgid "Book link open in new tab?"
+msgstr ""
+
+#: inc/academix-metabox.php:378
+msgid "Book Settings"
+msgstr ""
+
+#: single-team.php:117
+msgid "Call:"
+msgstr ""
+
+#: template-parts/content-single.php:20
+msgid "Categories: "
+msgstr ""
+
+#: inc/breadcrumbs.php:38
+msgid "Category"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:88
+msgid "Cmb2"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-single.php:16 template-parts/content.php:26
+msgid "Comments off"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/academix-metabox.php:74
+msgid "Contact"
+msgstr ""
+
+#: inc/academix-metabox.php:84
+msgid "Contact Information"
+msgstr ""
+
+#: inc/global-functions.php:99
+msgid "Copyright"
+msgstr ""
+
+#: inc/global-functions.php:42
+msgid "Create A Menu"
+msgstr ""
+
+#: inc/global-functions.php:212
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/academix-metabox.php:299 inc/academix-metabox.php:321
+msgid "Default"
+msgstr ""
+
+#: functions.php:375
+msgid "Demo Import 1"
+msgstr ""
+
+#: functions.php:388
+msgid "Demo Import 2"
+msgstr ""
+
+#: inc/academix-metabox.php:38 inc/academix-metabox.php:182
+msgid "Designation"
+msgstr ""
+
+#: inc/global-functions.php:125
+msgid "Developed and Managed by:"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:179
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/academix-metabox.php:300 inc/academix-metabox.php:322
+msgid "Display"
+msgstr ""
+
+#: inc/academix-metabox.php:295
+msgid "Display / Hide Page Banner"
+msgstr ""
+
+#: inc/academix-metabox.php:317
+msgid "Display / Hide Page Breadcrumbs"
+msgstr ""
+
+#: inc/widgets/academix-latest-events-widget.php:14
+msgid "Display Latest Events Widget"
+msgstr ""
+
+#: inc/widgets/academix-recent-post-widget.php:14
+msgid "Display Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/academix-social-widget.php:13
+msgid "Display Social list widget"
+msgstr ""
+
+#: inc/academix-metabox.php:296
+msgid "Do you want to display page banner section?"
+msgstr ""
+
+#: inc/academix-metabox.php:318
+msgid "Do you want to display page breadcrumbs?"
+msgstr ""
+
+#: inc/academix-metabox.php:452
+msgid "DOI"
+msgstr ""
+
+#: inc/academix-metabox.php:458
+msgid "DOI Link"
+msgstr ""
+
+#: inc/academix-metabox.php:464
+msgid "DOI open in new tab?"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/academix-metabox.php:102
+msgid "Education"
+msgstr ""
+
+#: inc/academix-metabox.php:141
+msgid "Education Degree"
+msgstr ""
+
+#: inc/academix-metabox.php:134
+msgid "Education Institute"
+msgstr ""
+
+#: inc/academix-metabox.php:127
+msgid "Education Year"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:69
+msgid "Elementor Website Builder"
+msgstr ""
+
+#: inc/academix-metabox.php:94
+msgid "Email"
+msgstr ""
+
+#: single-team.php:121
+msgid "Email:"
+msgstr ""
+
+#: inc/breadcrumbs.php:101
+msgid "Error 404"
+msgstr ""
+
+#: inc/academix-metabox.php:345
+msgid "Event Date"
+msgstr ""
+
+#: inc/academix-metabox.php:351
+msgid "Event Gallery Image"
+msgstr ""
+
+#: inc/academix-metabox.php:340
+msgid "Event Location"
+msgstr ""
+
+#: inc/academix-metabox.php:332
+msgid "Event Settings"
+msgstr ""
+
+#: inc/widgets/academix-recent-post-widget.php:91
+msgid "F d, Y"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/academix-metabox.php:301 inc/academix-metabox.php:323
+msgid "Hide"
+msgstr ""
+
+#: inc/global-functions.php:48 inc/breadcrumbs.php:11
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "http://academix.wpcolorlab.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/webtechtoday/"
+msgstr ""
+
+#: inc/academix-metabox.php:309
+msgid "if you don't set any featured image then it will work"
+msgstr ""
+
+#: inc/academix-metabox.php:20
+msgid "image size is 360 x 270px"
+msgstr ""
+
+#: inc/academix-metabox.php:365
+msgid "image size is 750 x 495px"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:124
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:123
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:125
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/academix-metabox.php:44 inc/academix-metabox.php:189
+msgid "Institute"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/academix-metabox.php:426
+msgid "Journal Article Settings"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/global-functions.php:214
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/global-functions.php:214
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:179
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: template-parts/content-single.php:55
+msgid "Next post"
+msgstr ""
+
+#: inc/academix-metabox.php:395 inc/academix-metabox.php:467
+msgid "No"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:176
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/content-single.php:16 template-parts/content.php:26
+msgid "No Comment"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:93
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+msgid "One Comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:185
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/academix-metabox.php:237
+msgid "Organization"
+msgstr ""
+
+#: inc/breadcrumbs.php:104
+msgid "Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/academix-metabox.php:286
+msgid "Page Settings"
+msgstr ""
+
+#: template-parts/content-single.php:27 template-parts/content-page.php:19
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: inc/academix-metabox.php:480
+msgid "PDF Link"
+msgstr ""
+
+#: inc/academix-metabox.php:474
+msgid "PDF Title"
+msgstr ""
+
+#: inc/academix-metabox.php:88
+msgid "Phone Number"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:181
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:174
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:177
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: template-parts/content-single.php:14
+msgid "Post by: "
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:54
+msgid "Previous post"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: inc/academix-metabox.php:150
+msgid "Professional Experience"
+msgstr ""
+
+#: inc/academix-metabox.php:446
+msgid "Publication Identity"
+msgstr ""
+
+#: inc/global-functions.php:307
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:76
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/academix-metabox.php:120 inc/academix-metabox.php:168
+#: inc/academix-metabox.php:216 inc/academix-metabox.php:260
+msgid "Remove Row"
+msgstr ""
+
+#: inc/academix-metabox.php:440
+msgid "Research Topic"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:173
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/breadcrumbs.php:41
+msgid "Search"
+msgstr ""
+
+#: inc/global-functions.php:221
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/academix-metabox.php:504
+msgid ""
+"Selected Publication ( Please check this - if you want show this post on "
+"selectd publication box)"
+msgstr ""
+
+#: inc/academix-metabox.php:495 inc/academix-metabox.php:503
+msgid "Selected Publications"
+msgstr ""
+
+#: functions.php:134
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Sidebar Page"
+msgstr ""
+
+#: inc/academix-metabox.php:248
+msgid "Social"
+msgstr ""
+
+#: inc/academix-metabox.php:274
+msgid "Social Icon"
+msgstr ""
+
+#: inc/academix-metabox.php:267
+msgid "Social Link"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:127
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/academix-metabox.php:515
+msgid "SP Button Link"
+msgstr ""
+
+#: inc/academix-metabox.php:509
+msgid "SP Button Text"
+msgstr ""
+
+#: inc/breadcrumbs.php:95
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:22
+msgid "Tagged: "
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:138
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:175
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:153
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:148
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:180
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:143
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:133
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:128
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/academix-metabox.php:60 inc/academix-metabox.php:82
+#: inc/academix-metabox.php:110 inc/academix-metabox.php:158
+#: inc/academix-metabox.php:206
+msgid "Title"
+msgstr ""
+
+#: header.php:50
+msgid "Toggle navigation"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:57
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:126
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions.php:334
+msgid "Upload Banner Image"
+msgstr ""
+
+#: inc/academix-metabox.php:414
+msgid "Upload Book Image"
+msgstr ""
+
+#: inc/academix-metabox.php:357
+msgid "Upload Event Image"
+msgstr ""
+
+#: inc/academix-metabox.php:12
+msgid "Upload Profile Picture"
+msgstr ""
+
+#: inc/global-functions.php:125
+msgid "Webtechtoday"
+msgstr ""
+
+#. Author of the theme
+msgid "webtechtoday"
+msgstr ""
+
+#: inc/tgm-plugin/academix-required-plugins.php:83
+msgid "WP Fluent Form WordPress Contact Form Plugin"
+msgstr ""
+
+#: inc/academix-metabox.php:175 inc/academix-metabox.php:223
+msgid "Year"
+msgstr ""
+
+#: inc/global-functions.php:216
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/global-functions.php:216
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/academix-metabox.php:396 inc/academix-metabox.php:468
+msgid "Yes"
+msgstr ""

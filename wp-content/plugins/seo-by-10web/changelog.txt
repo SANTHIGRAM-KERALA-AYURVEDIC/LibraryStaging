@@ -1,0 +1,152 @@
+2.2.3
+* Fixed: Google authentication migration from OOB.
+
+2.2.2
+* Fixed: Get correct current url before redirecting during 404 monitoring.
+
+2.2.1
+* Fixed: User manual links.
+
+2.2.0
+* Fixed: Google authorization failure.
+
+2.1.20
+* Improved: Updated Google API.
+* Fixed: Warning on deleting Sitemap.
+
+2.1.19
+* Fixed: Issue with robots.txt.
+
+2.1.18
+* Fixed: PHP notice.
+
+2.1.17
+* Improved: Updated external libraries.
+
+2.1.16
+* Fixed: Issue with entering site's admin area with more than one seo plugin enabled.
+
+2.1.15
+* Fixed: Nofollow links functionality.
+
+2.1.14
+* Improved: Add no referrer to external links.
+
+2.1.13
+* Fixed: Compatibility with PHP 8.
+
+2.1.12
+* Fixed: Responsiveness of Additional pages in Sitemap.
+
+2.1.11
+* Fixed: Possibility to use absolute url for Page URL on adding redirects while using Regex.
+
+2.1.10
+* Fixed: Redirects page styles.
+
+2.1.9
+* Fixed: Minor bug.
+
+2.1.8
+* Fixed: Conflict with PHP 5.6.
+
+2.1.7
+* Fixed: Notice on getting crawl data.
+
+2.1.6
+* Added: functionality of nofollow links.
+
+2.1.5
+* Fixed: missing files.
+
+2.1.4
+* Added: Additional Pages in sitemap.
+* Improved: Prevent pages to redirect to themselves.
+* Improved: Do not overwrite "Search Engine Visibility" option.
+* Improved: Removed homepage from Pages sitemap.
+* Fixed: Bug on robots.txt.
+* Fixed: Conflicts with PHP7.4.
+
+2.1.3
+* Added: Canonicalized pages and posts are not included in sitemap.
+
+2.1.2
+* Changed: Sign up link.
+
+2.1.1
+* Added: Functionality for posts to appear in Google's Related Questions (People also ask).
+* Fixed: Bug on saving posts.
+* Fixed: Warnings.
+
+2.1.0
+* Added: Functionality to exclude archives from Sitemap.
+* Added: Option to set Meta robots for archive pages.
+* Added: Recommendations to help improve SEO.
+* Added: Option to remove category slug from categories pages URLs.
+* Added: Option to redirect attachment URLs to the attachment itself.
+* Added: Knowledge graph.
+* Added: Import from Yoast.
+* Added: Virtual robots.txt.
+* Added: Video sitemap.
+* Added: WooCommerce options.
+* Added: 404 monitoring.
+* Added: Option to disable meta information.
+* Improved: Redirect functionality.
+* Improved: Expand redirection types.
+* Improved: Take a post content first image as a og:image.
+* Fixed: Do not include noindex pages to Sitemap.
+
+2.0.13
+* Added: Hook to inject gallery plugins to sitemap xml.
+* Fixed: Excerpt filter.
+
+2.0.12
+* Fixed: Problems messages position in overview page.
+* Fixed: Create cron on authentication with Moz to show latest data on dashboard.
+
+2.0.11
+* Added: Custom redirects functionality.
+
+2.0.10
+* Removed: Crawl Errors report (removed by Google: https://webmasters.googleblog.com/2019/01/focusing-on-new-search-console.html).
+* Updated: Google API V2.2.3.
+* Fixed: Google authorization bug.
+
+2.0.9
+* Changed links from Web-Dorado to 10Web
+
+2.0.8
+* Added: Front page metas.
+* Added: Canonical URL for Homepage.
+* Added: Sign up for 10Web button.
+* Fixed: Notice on PHP 5.3.
+* Updated: Google APIs Client Library for PHP.
+
+2.0.7
+* Fixed: Canonical URL issue with pagination.
+
+2.0.6
+* Fixed: Bug on authentication.
+
+2.0.5
+* Fixed: Do no truncate Excerpt if not auto generated.
+* Fixed: Twitter same as open graph by default.
+* Fixed: Sitemap not found with permalinks set to plain.
+* Fixed: Robots meta does not work for home page set as static page.
+
+2.0.4
+* Fixed: Google Search Analytics date filter for service.
+
+2.0.3
+* Fixed: Minor bug.
+
+2.0.2
+* Fixed: Notice in post edit pages.
+* Changed: Moz Account Descriptions.
+* Fixed: Date in snippet preview functionality.
+
+2.0.1
+* Added: Support forum and user manual links.
+
+2.0.0
+* Initial version.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="https://ayurvedalibrary.org/wp-content/plugins/seo-by-10web/css/xml-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://ayurvedalibrary.org/home-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/post-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/category-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/team_cat-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/book_cat-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/journal_article_cat-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/author_archive-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://ayurvedalibrary.org/date_archive-sitemap.xml</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+</sitemap>
+</sitemapindex>

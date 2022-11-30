@@ -1,0 +1,59 @@
+2022-10-03T13:23:35+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/wplive/web/wp-live/wp-includes/formatting.php:5385
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/formatting.php(5385): preg_replace('@<(script|style...', '', Array)
+#1 /home/wplive/web/wp-live/wp-includes/formatting.php(3934): wp_strip_all_tags(Array)
+#2 /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php(198): wp_trim_words(Array, 20)
+#3 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include('/home/wplive/we...')
+#4 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#5 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#6 {main}
+  thrown in /home/wplive/web/wp-live/wp-includes/formatting.php on line 5385
+
+2022-10-03T13:28:14+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:198
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 198
+
+2022-10-03T13:28:55+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:198
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 198
+
+2022-10-03T13:29:17+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:198
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 198
+
+2022-10-03T13:30:36+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:198
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 198
+
+2022-10-03T16:02:33+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:200
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 200
+
+2022-10-03T16:02:34+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php:200
+Stack trace:
+#0 /home/wplive/web/wp-live/wp-includes/template-loader.php(106): include()
+#1 /home/wplive/web/wp-live/wp-blog-header.php(19): require_once('/home/wplive/we...')
+#2 /home/wplive/web/wp-live/index.php(17): require('/home/wplive/we...')
+#3 {main}
+  thrown in /home/wplive/web/wp-live/wp-content/themes/academix-child/search.php on line 200
+

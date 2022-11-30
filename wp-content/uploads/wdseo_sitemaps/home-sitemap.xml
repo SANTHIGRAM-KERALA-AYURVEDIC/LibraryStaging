@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="https://ayurvedalibrary.org/wp-content/plugins/seo-by-10web/css/xml-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://ayurvedalibrary.org</loc>
+<lastmod>2022-10-31T17:10:49+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+</urlset>

@@ -1,0 +1,53 @@
+.two_elementor_control_title {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  color:#ffffff;
+}
+
+.two_elementor_settings_content .two-elementor-container-title {
+  letter-spacing: 0.1px;
+  color: #FFFFFFCC;
+  font-weight: 400;
+}
+
+.two_elementor_settings_content .two-elementor-container-title span {
+  letter-spacing: 0.1px;
+  color: #FFFFFFCC;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.two_elementor_settings_content .two-score-container-title {
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+}
+
+.two_elementor_settings_content .two-score-container-title span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.two-score-container-both .two-score-mobile, .two-score-container-both .two-score-desktop {
+  flex-direction: column;
+  background: #35383C 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+}
+
+.two_elementor_settings_content .two-score-container-both .two-score-text * {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.two_elementor_settings_content .two-score-container-both .two-load-text-time {
+  font: normal normal 600 10px/16px Open Sans;
+  color: #FFFFFF;
+}
+
+.two_elementor_settings_content .two-score-circle {
+  background: #FFFFFF0D 0% 0% no-repeat padding-box;
+}
+
+.two-score-circle-animated {
+  color: #ffffff!important;
+}
